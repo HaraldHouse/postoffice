@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "matijao.vue-nuxt-snippets",
+    "matijao.modern-js-snippets",
+    "antfu.iconify",
+    "antfu.unocss"
+  ]
+}
